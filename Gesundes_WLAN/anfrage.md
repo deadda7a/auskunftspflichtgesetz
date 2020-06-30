@@ -1,7 +1,6 @@
 # Anfrage bezüglich des "gesunden WLANs" der Stadtgemeinde Gerasdorf
 ## Gestellte Anfragen
-1. Sie berichten von „neueste Entwicklungen, die vermuten lassen, dass von einer möglichen Gefährdung durch elektromagnetische Strahlen Kinder beson-
-ders betroffen sein könnten”.
+1. Sie berichten von „neueste Entwicklungen, die vermuten lassen, dass von einer möglichen Gefährdung durch elektromagnetische Strahlen Kinder besonders betroffen sein könnten”.
    1. Von welchen „neuesten Entwicklungen” ist konkret die Rede?
    2. Sind diese Entwicklungen durch wissenschaftliche Studien bewiesen und sind diese öffentlich einsehbar?
       1. Wenn Ja: Wo?
