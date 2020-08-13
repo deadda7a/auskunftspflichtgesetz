@@ -1,4 +1,4 @@
-# Anfrage bezüglich des Einsatzes von IMSI Catchern bei der österreichischen Polizei
+# Anfrage bezüglich des Versandes einer Antwort auf einen Flyer als amtliche Mitteilung
 ## Gestellte Anfragen
 1. Auf welcher Rechtsgrundlage erfolgte die Versendung als amtliche Mitteilung?
 2. Welche Kosten sind dadurch entstanden?
