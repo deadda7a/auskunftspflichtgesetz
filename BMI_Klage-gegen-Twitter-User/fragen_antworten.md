@@ -1,0 +1,15 @@
+1. Um welchen Tweet (welchen Inhalt) geht es genau?
+  > Es handelte sich im gegenständlichen Fall um ein öffentliches Posting auf Twitter (mit Verlinkung @LPDWien), welches für jedermann einsehbar war. Das Posting wurde auf Twitter mittlerweile gelöscht, ist aber weiterhin als Screenshot im Internet zu finden. Gemäß § 1 Abs. 2 letzter Satz Auskunftspflichtgesetz müssen offenbar mutwillig verlangte Auskünfte, insbesondere bei allgemein bekannten oder offenkundigen Tatsachen, von der Behörde nicht beantwortet werden (VwGH 91/12/0283, ähnlich VwGH 2014/02/0006).
+2. Welche Abteilung prüft das?
+  > Die Auskunft wurde verweigert.
+3. Wie viele Personen sind damit betraut?
+  > Die Auskunft wurde verweigert.
+4. Wie viele Stunden wurden dafür vorgesehen?
+  > Der Tweet wurde von der dafür nach der Geschäftseinteilung des Bundesministeriums für Inneres zuständigen Fachabteilung überprüft. Mangels Aufzeichnungen für konkrete Prüfungen kann dies nicht bekanntgegeben werden.
+5. Welches Budget ist dafür vorgesehen?
+  > Das Regelbudget der nach der Geschäftseinteilung des Bundesministeriums für Inneres zuständigen Fachabteilung.
+6. Auf welche Straftatbestände wird geprüft?
+7. Auf welche Verwaltungstatbestände wird geprüft?
+  > Nach dem Auskunftspflichtgesetz ist eine Auskunft nicht zu erteilen, wenn dem eine gesetzliche Verschwiegenheitspflicht (z.B. Amtsverschwiegenheit oder Datenschutz) entgegensteht. Das für das Bestehen einer Verschwiegenheitspflicht erforderliche Geheimhaltungsinteresse kann eines der in Art. 20 Abs. 3 B-VG aufgezählten öffentlichen Interessen (im Wesentlichen Amtsverschwiegenheit) oder ein überwiegendes Interesse einer Partei sein. Nur im letztgenannten Fall ist von der Behörde eine Interessenabwägung vorzunehmen. Im gegenständlichen Fall haben Sie eine Anfrage mit personenbezogenen Daten (Name) gestellt. Jegliche inhaltliche Auskunft wäre daher eine personenbezogene Information im Sinne des Artikels 4 Z 1 DSGVO. Das sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen, insbesondere Name, Geburtsdatum, Adresse, E-Mail-Adresse. Weiters können die Rechtsmeinung oder eine Rechtsauskunft der Behörde (mit Ausnahme der Mitteilung des Inhalts einer bestimmten Vorschrift oder den Hinweis, in welcher Rechtsvorschrift eine Angelegenheit geregelt ist) nicht Gegenstand einer Auskunft sein (VwGH, 2010/04/0019). Eine darüber hinausgehende Auskunft kann nicht erteilt werden.
+8. Ist es nicht unter anderem Datenschutzrechtlich bedenklich, diese Ankündigung mit dem Namen der Person auf der Homepage des BMI zu veröffentlichen?
+  > Die Rechtsmeinung oder eine Rechtsauskunft der Behörde (mit Ausnahme der Mitteilung des Inhalts einer bestimmten Vorschrift oder den Hinweis, in welcher Rechtsvorschrift eine Angelegenheit geregelt ist) kann nicht Gegenstand einer Auskunft sein (VwGH, 2010/04/0019). Nur gesichertes Wissen - sei es im tatsächlichen, sei es im rechtlichen Bereich - kann Gegenstand einer Auskunft sein (VwGH, 2013/04/0139).
